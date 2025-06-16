@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Kung-Frog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|d:\\unity\\kung-frog\\assets\\scripts\\triggerend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\loadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\triggerburaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerburaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\coletavell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coletavell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\danoespinhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\danoespinhos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|D:\\Unity\\Kung-Frog\\assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE1E7DE-CE4B-6A1C-2EF9-4BC0AFEB5CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriggerEnd.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\TriggerEnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerEnd.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\TriggerEnd.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerEnd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:58:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\LoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadManager.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\LoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:36:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriggerBuraco.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\TriggerBuraco.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerBuraco.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\TriggerBuraco.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerBuraco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:15:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanoEspinhos.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\DanoEspinhos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DanoEspinhos.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\DanoEspinhos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DanoEspinhos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:11:43.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coletavell.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\Coletavell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coletavell.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\Coletavell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coletavell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:15:25.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:49:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:48:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:16:58.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:21:06.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPatrol.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPatrol.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:55:37.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "D:\\Unity\\Kung-Frog\\Assets\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:32:26.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
