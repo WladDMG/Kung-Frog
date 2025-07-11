@@ -110,9 +110,8 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
 **Wladmir Silveira**
 
-📧 Email: [wladdmg@gmail.com](mailto:wladdmg@gmail.com)  
-💻 GitHub: [github.com/WladDMG](https://github.com/WladDMG)  
-🎮 Itch.io: [wladdmg.itch.io](https://wladdmg.itch.io)
+📧 [wladdmg@gmail.com](mailto:wladdmg@gmail.com) | 💻 [GitHub](https://github.com/WladDMG) | 🎮 [Itch.io](https://wladdmg.itch.io)
+
 ---
 
 ## 📄 Licença | License
