@@ -95,11 +95,11 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
 ## 🖼️ Capturas de Tela | Screenshots
 
-<img src="https://github.com/WladDMG/Kung-Frog/raw/main/screenshots/game.png" width="600" alt="Gameplay 1" />
+<img src="https://github.com/WladDMG/Kung-Frog/screenshots/game.png" width="600" alt="Gameplay 1" />
 <br />
-<img src="https://github.com/WladDMG/Kung-Frog/raw/main/screenshots/combat.png" width="600" alt="Combat example" />
+<img src="https://github.com/WladDMG/Kung-Frog/screenshots/combat.png" width="600" alt="Combat example" />
 <br />
-<img src="https://github.com/WladDMG/Kung-Frog/raw/main/screenshots/menu.png" width="600" alt="Main Menu" />
+<img src="https://github.com/WladDMG/Kung-Frog/screenshots/menu.png" width="600" alt="Main Menu" />
 
 ---
 
