@@ -18,7 +18,7 @@ A full-featured 2D platformer game built using Unity.
 <p align="center">
   <b>🔗 Jogue agora:</b> <a href="https://wladdmg.itch.io/kung-frog">https://wladdmg.itch.io/kung-frog</a>
 </p>
-🔗 **Jogue agora:** [https://wladdmg.itch.io/kung-frog](https://wladdmg.itch.io/kung-frog)
+
 
 ---
 
