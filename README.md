@@ -3,17 +3,15 @@
 Projeto completo de um jogo de plataforma 2D desenvolvido com Unity.  
 A full-featured 2D platformer game built using Unity.
 
-<p align="center">
+<p align="center" style="display: flex; gap: 30px;">
   <a href="https://unity.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100" alt="Unity Logo" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" alt="C# Logo" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wladdmg.itch.io/kung-frog" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-kgm1p7hw.png" width="100" alt="Itch.io Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Itch_io_logo.svg" width="100" alt="Itch.io Logo" />
   </a>
 </p>
 
