@@ -62,11 +62,11 @@ A full-featured 2D platformer game built using Unity.
 ## 📁 Estrutura do Repositório | Repository Structure
 
 kung-frog/
-├── Assets/               # Game assets (sprites, sounds, scripts)
-├── Packages/             # Unity dependencies
-├── ProjectSettings/      # Unity project settings
-├── .gitignore            # Git ignored files
-└── README.md             # Project documentation
+├── Assets/ # Game assets (sprites, sounds, scripts)
+├── Packages/ # Unity dependencies
+├── ProjectSettings/ # Unity project settings
+├── .gitignore # Git ignored files
+└── README.md # Project documentation
 
 ---
 
