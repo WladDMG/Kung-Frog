@@ -1,109 +1,113 @@
-# Kung Frog – Jogo 2D em Unity
+# 🐸 Kung Frog – Jogo de Plataforma 2D em Unity
 
-Projeto Completo: Jogo de Plataforma 2D feito com Unity  
-Full Project: 2D Platformer Game built with Unity
+Projeto completo de um jogo de plataforma 2D desenvolvido com Unity.  
+A full-featured 2D platformer game built using Unity.
 
-![Unity](https://img.shields.io/badge/engine-Unity-000000?logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/language-C%23-239120?logo=c-sharp&logoColor=white)
+<p align="center">
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Badge" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="CSharp Badge" />
+  </a>
+  <a href="https://wladdmg.itch.io/kung-frog" target="_blank">
+    <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge" alt="Itch.io Badge" />
+  </a>
+</p>
 
-Link do jogo: https://wladdmg.itch.io/kung-frog
+<p align="center">
+  <b>🔗 Jogue agora:</b> <a href="https://wladdmg.itch.io/kung-frog">https://wladdmg.itch.io/kung-frog</a>
+</p>
+🔗 **Jogue agora:** [https://wladdmg.itch.io/kung-frog](https://wladdmg.itch.io/kung-frog)
 
 ---
 
-## Descrição do Projeto (PT-BR)
+## 🎮 Descrição do Projeto (PT-BR)
 
-Kung Frog é um jogo de plataforma 2D desenvolvido com Unity, utilizando arte em pixel, trilha sonora ambiente e mecânicas simples de pulo e combate. O jogador controla um sapo mestre em kung fu que enfrenta inimigos e obstáculos em fases desafiadoras.
+**Kung Frog** é um jogo de plataforma 2D em pixel art desenvolvido com Unity. O jogador controla um sapo mestre em kung fu que enfrenta inimigos e obstáculos em diferentes fases, com mecânicas simples de pulo e ataque.
 
-- Desenvolvido com Unity 2D
+- Construído com Unity 2D
 - Sprites e animações da Unity Asset Store
-- Músicas e efeitos sonoros do Pixabay
-- Publicado via Itch.io
+- Trilha sonora ambiente e efeitos do Pixabay
+- Exportado em WebGL e publicado no Itch.io
 
 ---
 
-## Project Description (EN)
+## 🌍 Project Description (EN)
 
-Kung Frog is a 2D platformer game built with Unity, featuring pixel art, ambient soundtrack, and simple mechanics for jumping and combat. The player controls a kung fu frog that faces enemies and obstacles in challenging levels.
+**Kung Frog** is a 2D pixel art platformer game built with Unity. You play as a kung fu frog who fights enemies and navigates challenging levels using simple jump and attack mechanics.
 
 - Built using Unity 2D
-- Sprites and animations from the Unity Asset Store
-- Music and sound effects from Pixabay
-- Published on Itch.io
+- Sprites and animations from Unity Asset Store
+- Ambient music and SFX from Pixabay
+- Exported in WebGL and published on Itch.io
 
 ---
 
-## Tecnologias Usadas | Technologies Used
+## 🛠️ Tecnologias Usadas | Technologies Used
 
-Game Engine  
-- Unity (recomendado: versão 2021.3 LTS ou superior)  
-- Linguagem: C#
+**Game Engine:**  
+- Unity (recommended: 2021.3 LTS or later)  
+- Language: C#
 
-Assets e Recursos  
-- Unity Asset Store (sprites, personagens, plataformas)  
-- Pixabay (trilhas sonoras e efeitos sonoros livres de direitos)
+**Assets & Resources:**  
+- Sprites & animations: Unity Asset Store  
+- Music & SFX: Pixabay (royalty-free)
 
-Publicação  
-- Itch.io (plataforma de jogos independentes)
+**Deployment:**  
+- WebGL build published on Itch.io
 
 ---
 
-## Estrutura do Repositório | Repository Structure
+## 📁 Estrutura do Repositório | Repository Structure
 
-```
+```bash
 kung-frog/
-├── Assets/                  # Assets do jogo (sprites, músicas, scripts)
-├── ProjectSettings/         # Configurações do projeto Unity
-├── Packages/                # Dependências do Unity
-├── .gitignore               # Arquivos ignorados no Git
-└── README.md                # Documentação do projeto
-```
+├── Assets/               # Game assets (sprites, sounds, scripts)
+├── Packages/             # Unity dependencies
+├── ProjectSettings/      # Unity project settings
+├── .gitignore            # Git ignored files
+└── README.md             # Project documentation
+▶️ Como Rodar o Projeto | How to Run
+Clone o repositório:
 
----
-
-## Como Rodar o Projeto | How to Run
-
-1. Clone este repositório:
-
-```
+bash
+Copiar
+Editar
 git clone https://github.com/seuusuario/kung-frog.git
-```
+Abra a pasta kung-frog/ no Unity Hub.
 
-2. Abra a pasta `kung-frog/` no Unity Hub.
+Clique em "Open Project" e depois em "Play" no editor.
 
-3. Clique em "Open", aguarde o carregamento e depois pressione "Play" no editor.
+⚠️ Requisitos: Unity instalado (recomendado: versão 2021.3 ou superior)
 
-Requisitos: Unity instalado (versão 2021.3 ou superior recomendada)
+🚀 Build e Publicação | Build and Deploy
+Exportado com suporte a WebGL via File > Build Settings.
 
----
+Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
-## Build e Publicação | Build and Deploy
+🔗 Acesse o jogo direto aqui
 
-- O jogo foi exportado com suporte a WebGL usando o menu "File > Build Settings" no Unity.
-- A versão final foi enviada para o Itch.io.
+🖼️ Capturas de Tela | Screenshots
+<img src="screenshots/1-gameplay.png" width="600" alt="Gameplay 1" /> <br /> <img src="screenshots/2-combat.png" width="600" alt="Combat example" /> <br /> <img src="screenshots/3-menu.png" width="600" alt="Main Menu" />
+Coloque as imagens em uma pasta screenshots/ no repositório. Se quiser, posso gerar versões base em PNG para você.
 
-Link direto: https://wladdmg.itch.io/kung-frog
+👤 Autor | Author
+Wladmir Silveira
+📧 Email: wladdmg@gmail.com
+💻 GitHub: github.com/WladDMG
+🎮 Itch.io: wladdmg.itch.io
 
----
-
-## Autor | Author
-
-Wladmir Silveira  
-Email: wladdmg@gmail.com  
-GitHub: https://github.com/WladDMG  
-Itch.io: https://wladdmg.itch.io
-
----
-
-## Licença | License
-
-Este projeto está licenciado sob a licença MIT.  
+📄 Licença | License
+Este projeto está licenciado sob a Licença MIT.
 This project is licensed under the MIT License.
 
----
+🙏 Agradecimentos | Acknowledgments
+Unity pela engine robusta e gratuita
 
-## Agradecimentos | Acknowledgments
+Unity Asset Store pelos sprites e animações
 
-- Unity Technologies pelo motor de jogo gratuito e completo.  
-- Asset Store pelos recursos visuais de qualidade disponíveis gratuitamente.  
-- Pixabay pelas músicas e efeitos sonoros de domínio público.  
-- Itch.io por oferecer uma plataforma acessível para publicação de jogos indie.
+Pixabay pelas músicas e sons de domínio público
+
+Itch.io pela plataforma gratuita de publicação indie
+
