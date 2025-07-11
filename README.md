@@ -95,8 +95,8 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
 ## 🖼️ Capturas de Tela | Screenshots
 
-<img src="screenshots/game.png" width="600" alt="Gameplay 1" /> <br /> 
-<img src="screenshots/combat.png" width="600" alt="Combat example" /> <br /> 
+<img src="screenshots/game.png" width="600"/> 
+<img src="screenshots/combat.png" width="600" alt="Combat example" /> 
 <img src="screenshots/menu.png" width="600" alt="Main Menu" />
 
 ---
