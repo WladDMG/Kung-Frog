@@ -61,19 +61,19 @@ A full-featured 2D platformer game built using Unity.
 
 ## 📁 Estrutura do Repositório | Repository Structure
 
-
 kung-frog/
 ├── Assets/               # Game assets (sprites, sounds, scripts)
 ├── Packages/             # Unity dependencies
 ├── ProjectSettings/      # Unity project settings
 ├── .gitignore            # Git ignored files
 └── README.md             # Project documentation
-▶️ Como Rodar o Projeto | How to Run
+
+---
+
+## ▶️ Como Rodar o Projeto | How to Run
+
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seuusuario/kung-frog.git
 Abra a pasta kung-frog/ no Unity Hub.
 
@@ -86,24 +86,39 @@ Exportado com suporte a WebGL via File > Build Settings.
 
 Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
-🔗 Acesse o jogo direto aqui
+<p align="center">
+  <b>🔗 Jogue agora:</b> <a href="https://wladdmg.itch.io/kung-frog">https://wladdmg.itch.io/kung-frog</a>
+</p>
 
-🖼️ Capturas de Tela | Screenshots
+
+---
+
+## 🖼️ Capturas de Tela | Screenshots
+
 <img src="screenshots/game.png" width="600" alt="Gameplay 1" /> <br /> 
 <img src="screenshots/combat.png" width="600" alt="Combat example" /> <br /> 
 <img src="screenshots/menu.png" width="600" alt="Main Menu" />
 
-👤 Autor | Author
+---
+
+## 👤 Autor | Author
+
 Wladmir Silveira
 📧 Email: wladdmg@gmail.com
 💻 GitHub: github.com/WladDMG
 🎮 Itch.io: wladdmg.itch.io
 
-📄 Licença | License
+---
+
+## 📄 Licença | License
+
 Este projeto está licenciado sob a Licença MIT.
 This project is licensed under the MIT License.
 
-🙏 Agradecimentos | Acknowledgments
+---
+
+## 🙏 Agradecimentos | Acknowledgments
+
 Unity pela engine robusta e gratuita
 
 Unity Asset Store pelos sprites e animações
