@@ -5,21 +5,17 @@ A full-featured 2D platformer game built using Unity.
 
 <p align="center">
   <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100" alt="Unity Logo" /><br />
-    <sub>Unity</sub>
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100" alt="Unity Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" alt="C# Logo" /><br />
-    <sub>C#</sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" alt="C# Logo" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://wladdmg.itch.io/kung-frog" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Itch_io_icon.svg" width="100" alt="Itch.io Logo" /><br />
-    <sub>Itch.io</sub>
+    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-kgm1p7hw.png" width="100" alt="Itch.io Logo" />
   </a>
 </p>
-
 
 <p align="center">
   <b>🔗 Jogue agora:</b> <a href="https://wladdmg.itch.io/kung-frog">https://wladdmg.itch.io/kung-frog</a>
