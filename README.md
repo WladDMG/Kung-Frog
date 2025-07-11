@@ -5,15 +5,13 @@ A full-featured 2D platformer game built using Unity.
 
 <p align="center">
   <a href="https://unity.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="100" alt="Unity Logo" />
+    <img src="https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" alt="C# Logo" />
+    <img src="https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="CSharp Badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wladdmg.itch.io/kung-frog" target="_blank">
-    <img src="https://static.thenounproject.com/png/3320456-200.png" width="100" alt="Itch.io Logo" />
+    <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge" alt="Itch.io Badge" />
   </a>
 </p>
 
