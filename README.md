@@ -62,11 +62,11 @@ A full-featured 2D platformer game built using Unity.
 ## 📁 Estrutura do Repositório | Repository Structure
 ```
 kung-frog/
-├── Assets/ # Game assets (sprites, sounds, scripts)
-├── Packages/ # Unity dependencies
-├── ProjectSettings/ # Unity project settings
-├── .gitignore # Git ignored files
-└── README.md # Project documentation
+├── Assets/             # Game assets (sprites, sounds, scripts)
+├── Packages/           # Unity dependencies
+├── ProjectSettings/    # Unity project settings
+├── .gitignore          # Git ignored files
+└── README.md           # Project documentation
 ```
 ---
 
@@ -74,7 +74,10 @@ kung-frog/
 
 Clone o repositório:
 
+```
 git clone https://github.com/seuusuario/kung-frog.git
+```
+
 Abra a pasta kung-frog/ no Unity Hub.
 
 Clique em "Open Project" e depois em "Play" no editor.
@@ -82,6 +85,7 @@ Clique em "Open Project" e depois em "Play" no editor.
 ⚠️ Requisitos: Unity instalado (recomendado: versão 2021.3 ou superior)
 
 🚀 Build e Publicação | Build and Deploy
+
 Exportado com suporte a WebGL via File > Build Settings.
 
 Publicado em Itch.io com hospedagem gratuita para jogos indie.
@@ -89,7 +93,6 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 <p align="center">
   <b>🔗 Jogue agora:</b> <a href="https://wladdmg.itch.io/kung-frog">https://wladdmg.itch.io/kung-frog</a>
 </p>
-
 
 ---
 
@@ -107,7 +110,9 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 
 Wladmir Silveira
 📧 Email: wladdmg@gmail.com
+
 💻 GitHub: github.com/WladDMG
+
 🎮 Itch.io: wladdmg.itch.io
 
 ---
@@ -115,6 +120,7 @@ Wladmir Silveira
 ## 📄 Licença | License
 
 Este projeto está licenciado sob a Licença MIT.
+
 This project is licensed under the MIT License.
 
 ---
