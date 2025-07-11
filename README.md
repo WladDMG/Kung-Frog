@@ -61,7 +61,7 @@ A full-featured 2D platformer game built using Unity.
 
 ## 📁 Estrutura do Repositório | Repository Structure
 
-```bash
+
 kung-frog/
 ├── Assets/               # Game assets (sprites, sounds, scripts)
 ├── Packages/             # Unity dependencies
@@ -89,7 +89,9 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 🔗 Acesse o jogo direto aqui
 
 🖼️ Capturas de Tela | Screenshots
-<img src="screenshots/game.png" width="600" alt="Gameplay 1" /> <br /> <img src="screenshots/combat.png" width="600" alt="Combat example" /> <br /> <img src="screenshots/menu.png" width="600" alt="Main Menu" />
+<img src="screenshots/game.png" width="600" alt="Gameplay 1" /> <br /> 
+<img src="screenshots/combat.png" width="600" alt="Combat example" /> <br /> 
+<img src="screenshots/menu.png" width="600" alt="Main Menu" />
 
 👤 Autor | Author
 Wladmir Silveira
