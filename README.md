@@ -109,6 +109,7 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 ## 👤 Autor | Author
 
 Wladmir Silveira
+
 📧 Email: wladdmg@gmail.com
 
 💻 GitHub: github.com/WladDMG
