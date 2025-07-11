@@ -89,7 +89,7 @@ Publicado em Itch.io com hospedagem gratuita para jogos indie.
 🔗 Acesse o jogo direto aqui
 
 🖼️ Capturas de Tela | Screenshots
-<img src="screenshots/1-gameplay.png" width="600" alt="Gameplay 1" /> <br /> <img src="screenshots/2-combat.png" width="600" alt="Combat example" /> <br /> <img src="screenshots/3-menu.png" width="600" alt="Main Menu" />
+<img src="screenshots/game.png" width="600" alt="Gameplay 1" /> <br /> <img src="screenshots/combat.png" width="600" alt="Combat example" /> <br /> <img src="screenshots/menu.png" width="600" alt="Main Menu" />
 Coloque as imagens em uma pasta screenshots/ no repositório. Se quiser, posso gerar versões base em PNG para você.
 
 👤 Autor | Author
